@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-devtinder",
+  "version": "1.0.0",
+  "description": "Building DevTinder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start src/app.js",
+    "dev": "nodeman start src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farooqmohammad1/NodeJS-DevTinder-Project.git"
+  },
+  "keywords": [
+    "Building",
+    "project",
+    "using",
+    "nodejs",
+    "and",
+    "expressjs"
+  ],
+  "author": "mdfrq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farooqmohammad1/NodeJS-DevTinder-Project/issues"
+  },
+  "homepage": "https://github.com/farooqmohammad1/NodeJS-DevTinder-Project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
